@@ -252,6 +252,17 @@ h2 {
 	font-family: Baskerville, 'Myriad Pro', Calibri, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	opacity:0.8;
 }
+
+h3 {
+	font-size: 1.28em;
+	font-weight: bold;
+	margin: 10px 0 30px 0;
+	color: #dfe0df;
+	color: #fff;
+	text-shadow: #000 0 1px 4px;
+	font-family: Baskerville, 'Myriad Pro', Calibri, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	opacity:0.8;
+}
 .sonico {
 	font-family: Allerbold, 'Myriad Pro', Calibri, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 1em;
@@ -423,6 +434,7 @@ a.appstore:active {
 	h2 {
 		font-size: 1.3em;
 	}
+
 	#footer {
 		display:block;
 		margin:0 auto;
